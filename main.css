@@ -1,0 +1,13 @@
+div {
+  color: white; 
+  border: 1px #fff;
+  background-color: orange;
+  padding: 30px;
+  font-weight: bold; 
+  font: 1em/1.5 "Helvetica";
+   
+}
+
+a:link {
+ 	color: #fff; 
+}
